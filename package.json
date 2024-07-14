@@ -1,0 +1,15 @@
+{
+    "name": "alurageek",
+    "version": "1.0.0",
+    "description": "A project for AluraGeek",
+    "main": "index.html",
+    "scripts": {
+    "start": "json-server --watch db.json"
+    },
+    "dependencies": {
+    "json-server": "^0.17.0"
+    },
+    "devDependencies": {},
+    "author": "Alejandro Conde",
+    "license": "MIT"
+}
